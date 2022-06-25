@@ -11,4 +11,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm run server`
 
-Launches the json-server (fake REST API) (http://localhost:3000).\
+Launches the json-server (fake REST API) (http://localhost:3000)
